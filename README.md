@@ -154,3 +154,16 @@ Sponsor the most comprehensive collection of AI system prompts and reach thousan
 </a>
 
 ⭐ **Drop a star if you find this useful!**
+
+<!-- nougen:fleet-role:begin (generated from NouGenRelay fleet/manifest.json; edit the manifest, not this block) -->
+## Fleet role
+
+| | |
+|---|---|
+| Role | FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus Agent Tools, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models |
+| Kind | genesis_domain |
+| Status | canonical |
+| Canonical for | system-prompts-and-models-of-ai-tools |
+| Visibility | public |
+
+<!-- nougen:fleet-role:end -->
